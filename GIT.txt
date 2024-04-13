@@ -1,0 +1,53 @@
+
+# Day-3 General Interview questions on GIT & GIT-Hub 
+
+ ------ git version=2.42, 64 bit ---------
+
+
+Q) Where we commit code in GitHub ? 
+--> First we send on feature branch, then we raise PR(PULL REQUEST) & then send to release branch.
+    we can also ans like this :--> But this branch creation and all will be taken care by our team lead. 
+   				   Just we have to clone the repository,we hv to switch the branch and we used to commit the code.
+ 
+ - We should know various Git commands also.
+ - GIT is also called as versioning tool / VCS-version control system
+ - Before GIT there was CVCS( Centralized Version Control System) due to CVCS, work was getting delayed of every Engineer.
+
+
+Q) What is difference betn GIT & GITHub ? ***
+ - GitHub owned by Microsoft. We used GIT's GitBash tool.
+
+ - GIT:- Git is application/installation tool present on our system( local repository), it communicates with bitbucket or GitHub.
+             
+ - GIThub:- GitHub is a web-based hosting service for Git repositories. It makes Git more user-friendly and also provides a platform for developers to share code with others. 
+            When our all code is done we put the code on GitHub. GitHub is a SCM tool.
+
+                 ----also look for difference image on desktop and go through Zaid's recording lects.
+
+ - Alternatives for GitHub are : GitLab, CodeCommit, CircleCI, Azure DevOps Server, Bitbucket.
+  
+ 
+Q) Difference betn Git-commit & Git-push ?**
+---> Git commit saves repository changes on local repo but not on Remote/Central repository. (commit saves)
+     Contrarily, Git push then updates your git commit changes and sends it to remote repository. That is where working developers will access them. (Push updates)
+ 
+ - Always keep backup of file before cloning any file in GIT bcoz any GIT command by mistake typed wrong then entire file may get lost or data may get deleted which will be hard to retrive.
+
+
+Q) What is SCM( Source Code Management)? **
+--> It is used to track modifications to a source code repository.
+    - Source code is present on centralized repository or say remote repo( i.e GitHub) on www.GitHub.com website.
+    - SC is present inside folders( i.e, Repository) on GitHub.
+
+- When we enter into industry, our first job after getting laptop is in GIT is Git-Clone.
+
+
+Q) What is context path ?
+--> The context path refers to the location relative to the server's address which represents the name of the web application.
+
+
+- Diffrence betn Git-Merge & Git-ReBase? Find out answer
+
+
+
+
